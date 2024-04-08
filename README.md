@@ -9,3 +9,4 @@ This repository contains my homework assignments organized by milestones.
 - [Pascal's Triangle](milestone_3)
 - [Trade-offs](milestone_4)
 - [Ancient, Inc.](milestone_5)
+- [Bookshelf](milestone_8)
